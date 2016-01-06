@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>textures/background.png</file>
+        <file>textures/blue.png</file>
+        <file>textures/green.png</file>
+        <file>textures/orange.png</file>
+        <file>textures/violet.png</file>
+        <file>textures/yellow.png</file>
+        <file>textures/boxShadow.png</file>
+        <file>textures/deck.png</file>
+        <file>textures/deckShadow.png</file>
+        <file>textures/ball.png</file>
+        <file>textures/ballLine.png</file>
+        <file>textures/ballShadow.png</file>
+    </qresource>
+</RCC>
